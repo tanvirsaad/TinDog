@@ -1,2 +1,2 @@
 # TinDog
-A tinder for Dogs....The assignment of an online course
+A tinder for Dogs....An assignment of an online course
