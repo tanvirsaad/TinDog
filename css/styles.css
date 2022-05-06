@@ -153,6 +153,9 @@ h3{
         position: static;
         transform: rotate(0deg);
     }
+    .title-bar{
+        text-align: center;
+    }
     #title{
         text-align: center;
     }
